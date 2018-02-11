@@ -1,6 +1,6 @@
-# Cards
+# Cardplay (a.k.a Cards)
 
-**TODO: Add description**
+Yet another command line card app built with Elixir 1.6
 
 ## Installation
 
